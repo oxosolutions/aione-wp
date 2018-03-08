@@ -1,2 +1,2 @@
-# bug-free-computing-machine
+# Aione WP
 Aione Wordpress Theme
